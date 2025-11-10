@@ -10,3 +10,4 @@
     - Underwater Physics
     - Control panels to affect Forces
     - Infinite/Procedural Seabed
+    - Procedural waves NOT SHADERS!!!
